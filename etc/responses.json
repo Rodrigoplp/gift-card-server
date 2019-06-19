@@ -1,0 +1,378 @@
+{
+  "r0": {
+    "en": "Server error.",
+    "fr": "Erreur de serveur."
+  },
+  "r1": {
+    "en": "Welcome.",
+    "fr": "Bienvenue."
+  },
+  "r2": {
+    "en": "Missing name.",
+    "fr": "Nom manquant."
+  },
+  "r3": {
+    "en": "A branch with this name already exists. Please use another name or delete branch.",
+    "fr": "Une branche portant ce nom existe déjà. Veuillez utiliser un autre nom ou supprimer une branche."
+  },
+  "r4": {
+    "en": "Branch created.",
+    "fr": "Branche créée."
+  },
+  "r5": {
+    "en": "Workstation created.",
+    "fr": "Station de travail créée."
+  },
+  "r6": {
+    "en": "Missing employee_name.",
+    "fr": "Nom de l'employé manquant (champ «employee_name»)."
+  },
+  "r7": {
+    "en": "Name already exists in this Merchant. Please use a different one.",
+    "fr": "Le nom existe déjà dans ce marchand. Veuillez en utiliser un autre."
+  },
+  "r8": {
+    "en": "Employee created.",
+    "fr": "Employé créé."
+  },
+  "r9": {
+    "en": "Please provide client_name.",
+    "fr": "Veuillez fournir le nom du client (champ «client_name»)."
+  },
+  "r10": {
+    "en": "Please provide client_email.",
+    "fr": "Veuillez fournir l'email du client (champ «client_email»)."
+  },
+  "r11": {
+    "en": "Please provide branch_id.",
+    "fr": "Veuillez fournir l'identification de la branch (champ «branch_id»)."
+  },
+  "r12": {
+    "en": "There already is a client with this name registered with this Merchant. Please choose another name.",
+    "fr": "Il y a déjà un client avec ce nom enregistré dans ce marchand. Veuillez choisir un autre nom."
+  },
+  "r13": {
+    "en": "Missing client_id.",
+    "fr": "Identification du client manquant (champ «client_id»)."
+  },
+  "r14": {
+    "en": "Missing branch_id.",
+    "fr": "Identification de la branche manquant (champ «branch_id»)."
+  },
+  "r15": {
+    "en": "Please provide the parameters to be updated in a json dictionary labeled data.",
+    "fr": "Veuillez fournir les paramètres à actualiser dans un dictionnaire json nommé «data»."
+  },
+  "r16": {
+    "en": "Merchant not found.",
+    "fr": "Marchand non trouvé."
+  },
+  "r17": {
+    "en": "Merchant updated.",
+    "fr": "Marchand actualisé."
+  },
+  "r18": {
+    "en": "Branch not found.",
+    "fr": "Branche non trouvée."
+  },
+  "r19": {
+    "en": "Branch updated.",
+    "fr": "Branche actualisée."
+  },
+  "r20": {
+    "en": "Please provide the workstation_id.",
+    "fr": "Veuillez fournir l'identification de station de travail (champ «workstation_id»)."
+  },
+  "r21": {
+    "en": "Workstation not found.",
+    "fr": "Station de travail non trouvée."
+  },
+  "r22": {
+    "en": "Workstation updated.",
+    "fr": "Station de travail actualisée."
+  },
+  "r23": {
+    "en": "Please provide client_id.",
+    "fr": "Veuillez fournir l'identification du client (champ «client_id»)."
+  },
+  "r24": {
+    "en": "Client not found.",
+    "fr": "Client non trouvé."
+  },
+  "r25": {
+    "en": "Client updated.",
+    "fr": "Client actualisé."
+  },
+  "r26": {
+    "en": "Please provide the employee_id.",
+    "fr": "Veuillez fournir l'identification du employé (champ «employee_id»)."
+  },
+  "r27": {
+    "en": "Employee not found.",
+    "fr": "Employé non trouvé."
+  },
+  "r28": {
+    "en": "Employee updated.",
+    "fr": "Employé actualisé."
+  },
+  "r29": {
+    "en": "Merchant deleted.",
+    "fr": "Marchand supprimé."
+  },
+  "r30": {
+    "en": "Please provide the branch_id.",
+    "fr": "Veuillez fournir l'identification de la branch (champ «branch_id»)."
+  },
+  "r31": {
+    "en": "Branch deleted.",
+    "fr": "Branche supprimée."
+  },
+  "r32": {
+    "en": "Please provide the workstation_id.",
+    "fr": "Veuillez fournir l'identification de la station de travail (champ «workstation_id»)."
+  },
+  "r33": {
+    "en": "Workstation deleted.",
+    "fr": "Station de travail supprimée."
+  },
+  "r34": {
+    "en": "Client deleted.",
+    "fr": "Client supprimé."
+  },
+  "r35": {
+    "en": "Please provide the employee_id.",
+    "fr": "Veuillez fournir l'identification de l'employé (champ «employee_id»)."
+  },
+  "r36": {
+    "en": "Employee deleted.",
+    "fr": "Employé supprimé."
+  },
+  "r37": {
+    "en": "Please provide gift_card_id or gift_card_number.",
+    "fr": "Veuillez fournir l'identification ou le numéro de la carte cadeau (champ «gift_card_id» ou «gift_card_number»)."
+  },
+  "r38": {
+    "en": "Gift card deleted.",
+    "fr": "Carte cadeau supprimée."
+  },
+  "r39": {
+    "en": "No merchants found.",
+    "fr": "Aucun marchand trouvé."
+  },
+  "r40": {
+    "en": "Merchants.",
+    "fr": "Marchands."
+  },
+  "r41": {
+    "en": "Please provide the merchant_id.",
+    "fr": "Veuillez fournir l'identification du marchand (champ «merchant_id»)."
+  },
+  "r42": {
+    "en": "No branches found.",
+    "fr": "Aucune branche trouvée."
+  },
+  "r43": {
+    "en": "Branches.",
+    "fr": "Branches."
+  },
+  "r44": {
+    "en": "No workstations found.",
+    "fr": "Aucune station de travail trouvée."
+  },
+  "r45": {
+    "en": "Workstations.",
+    "fr": "Stations de travail."
+  },
+  "r46": {
+    "en": "No clients found.",
+    "fr": "Aucun client trouvé."
+  },
+  "r47": {
+    "en": "Clients.",
+    "fr": "Clients."
+  },
+  "r48": {
+    "en": "Please provide parameters to execute a query, as client_email.",
+    "fr": "Veuillez fournir des paramètres pour la query, comme l'email du client (champ «client_email»)"
+  },
+  "r49": {
+    "en": "Client details.",
+    "fr": "Détails du client."
+  },
+  "r50": {
+    "en": "No employees found.",
+    "fr": "Aucun employé trouvé."
+  },
+  "r51": {
+    "en": "Employees.",
+    "fr": "Emoployés."
+  },
+  "r52": {
+    "en": "No gift cards found.",
+    "fr": "Aucune carte cadeau trouvée."
+  },
+  "r53": {
+    "en": "Gift cards.",
+    "fr": "Cartes cadeaux."
+  },
+  "r54": {
+    "en": "Gift card not found.",
+    "fr": "Carte cadeau non trouvée."
+  },
+  "r55": {
+    "en": "Merchant not found.",
+    "fr": "Marchand non trouvé."
+  },
+  "r56": {
+    "en": "Client not found.",
+    "fr": "Client non trouvé."
+  },
+  "r57": {
+    "en": "Gift card info.",
+    "fr": "Information sur la carte cadeau."
+  },
+  "r58": {
+    "en": "Please provide a criteria (i.e. merchant_id or gift_card_number).",
+    "fr": "Veuillez fournir un critère (c'est à dire «merchant_id» ou «gift_card_number»)."
+  },
+  "r59": {
+    "en": "No transactions found.",
+    "fr": "Aucune transaction trouvée."
+  },
+  "r60": {
+    "en": "Transactions.",
+    "fr": "Transactions."
+  },
+  "r61": {
+    "en": "Parameters missing.",
+    "fr": "Paramètres manquants."
+  },
+  "r62": {
+    "en": "Please provide 'money_amount'.",
+    "fr": "Veulliez fournir la quantité d'argent (champ «money_amount»)."
+  },
+  "r63": {
+    "en": "Please provide either serial_number or workstation_id.",
+    "fr": "Veulliez fournir le numéro serial ou l'identification de station de travail (champ «serial_number» ou «workstation_id»)."
+  },
+  "r64": {
+    "en": "Please provide employee_id.",
+    "fr": "Veulliez fournir l'identification de l'employé (champ «employee_id»)."
+  },
+  "r65": {
+    "en": "Gift card reloaded.",
+    "fr": "Carte cadeau rechargé."
+  },
+  "r66": {
+    "en": "Gift card redeemed.",
+    "fr": "Carte cadeau racheté."
+  },
+  "r67": {
+    "en": "Transaction not completed. Insufficient funds.",
+    "fr": "Transaction non complété. Fonds insuffisants."
+  },
+  "r68": {
+    "en": "Please provide transaction_id.",
+    "fr": "Veulliez fournir l'identification de la transaction (champ «transaction_id»)."
+  },
+  "r69": {
+    "en": "Transaction not found.",
+    "fr": "Transaction non trouvée."
+  },
+  "r70": {
+    "en": "Gift card activation cancelled.",
+    "fr": "Activation de carte cadeau cancellée."
+  },
+  "r71": {
+    "en": "Transaction cancelled.",
+    "fr": "Transaction cancellée."
+  },
+  "r72": {
+    "en": "Remittance not possible. Remaining balance in card is bigger than CAN $ 5.00.",
+    "fr": "Remittance pas possible. Le solde de la carte est supérieur à CAN $ 5.00."
+  },
+  "r73": {
+    "en": "Remittance not possible. Remaining balance in card is CAN $ 0.00.",
+    "fr": "Remittance pas possible. Le solde de la carte est CAN $ 0.00."
+  },
+  "r74": {
+    "en": "The remittance transaction is valid only in Quebec. This branch is located in ",
+    "fr": "La transaction de remittance est valide seul au Québec. La province de cette branche est: "
+  },
+  "r75": {
+    "en": "Remittance executed.",
+    "fr": "Remittance exécutée."
+  },
+  "r76": {
+    "en": "Transaction recorded. ",
+    "fr": "Transaction enregistrée. "
+  },
+  "r77": {
+    "en": "Transaction not recorded.",
+    "fr": "Transaction non enregistrée."
+  },
+  "r78": {
+    "en": "Client and gift card created.",
+    "fr": "Client et carte cadeau créées."
+  },
+  "r79": {
+    "en": "Gift card created.",
+    "fr": "Carte cadeau créée."
+  },
+  "r80": {
+    "en": "The assigned card number is not unique.",
+    "fr": "Le numéro de carte cadeau n'est pas unique."
+  },
+  "r81": {
+    "en": "Please include the authorization headers in the request.",
+    "fr": "Veuillez inclure les en-têtes d'autorisation dans la demande."
+  },
+  "r82": {
+    "en": " not found in the database.",
+    "fr": " non trouvé dans la base de données."
+  },
+  "r83": {
+    "en": "Wrong password.",
+    "fr": "Mauvais mot de passe."
+  },
+  "r84": {
+    "en": "Missing merchant_id.",
+    "fr": "Identification de marchand manquant (champ «merchant_id»)."
+  },
+  "r85": {
+    "en": "Please provide a correct email address.",
+    "fr": "Veuillez fournir une adresse e-mail correcte."
+  },
+  "r86": {
+    "en": "Password must have at least 3 characters.",
+    "fr": "Le mot de pass doit comporter au moins 3 caractères."
+  },
+  "r87": {
+    "en": "Please provide your name.",
+    "fr": "Veuillez fournir votre nom."
+  },
+  "r88": {
+    "en": "Check the form for errors.",
+    "fr": "Veuillez vérifier le formulaire."
+  },
+  "r89": {
+    "en": "Check the request for errors.",
+    "fr": "Veuillez vérifier la demande."
+  },
+  "r90": {
+    "en": "Conflict error.",
+    "fr": "Erreur de conflit."
+  },
+  "r91": {
+    "en": "Could not process the form. Error: ",
+    "fr": "Impossible de traiter le formulaire. Erreur: "
+  },
+  "r92": {
+    "en": "Could not process the form.",
+    "fr": "Impossible de traiter le formulaire."
+  },
+  "r93": {
+    "en": " registered. Welcome.",
+    "fr": " enregistré. Bienvenu."
+  }
+}

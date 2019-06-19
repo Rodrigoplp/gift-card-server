@@ -1,0 +1,39 @@
+{
+  "name": "NodeServer",
+  "version": "1.0.0",
+  "description": "Backend for connecting to DataCandy service",
+  "main": "server.js",
+  "author": "Cluster Systems",
+  "license": "UNLICENSED",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Rodrigo Pinto",
+      "email": " rodrigo_plp@yahoo.com"
+    }
+  ],
+  "scripts": {
+    "dev": "set NODE_ENV=dev & npm run start",
+    "prod": "set NODE_ENV=production & npm run start",
+    "start": "nodemon server.js",
+    "devwin": "set NODE_ENV=dev & npm run startwin",
+    "prodwin": "set NODE_ENV=production & npm run startwin",
+    "startwin": "node server.js"
+  },
+  "dependencies": {
+    "abab": "^1.0.4",
+    "bcrypt": "^1.0.3",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "connect": "^3.6.5",
+    "express": "^4.16.2",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.12.6",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "validator": "^9.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
